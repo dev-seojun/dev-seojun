@@ -1,10 +1,12 @@
-<div align= "center">
+<div align= "center">    
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=dev-seojun's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
+    <img src="https://github.com/dev-seojun/dev-seojun/blob/output/github-contribution-grid-snake.svg" />
+    <br />
+</div>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 이서준 (Lee Seo Jun) </h2>  
     <div style="font-weight: 400; font-size: 15px; text-align: left; color: #282d33;"> FullStack Developer / 단순한 코드 타이핑보다 '왜 이렇게 만들어야 하는가'를 먼저 생각하려고 노력합니다. </div> 
-    </div>
+</div>
     <!-- <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
