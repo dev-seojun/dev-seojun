@@ -49,11 +49,6 @@
 </div>
 </div>
 
-<div>
-    <h3>AI / API</h3>
-    <img src="https://img.shields.io/badge/openai-%23412991.svg?&style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
 <br>
 
 <div style="text-align: left;">
